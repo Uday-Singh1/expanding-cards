@@ -52,7 +52,7 @@ flex-wrap: wrap;
 }
 
 .profile:nth-of-type(1) .profile__header{
-    background: url("/BemLive/img/pexels-magda-ehlers-1279813.webp"); 
+    background: url("img/pexels-magda-ehlers-1279813.webp"); 
     border-top-left-radius: 5rem;
     border-top-right-radius: 5rem;
     background-size: 100% 100%;
@@ -60,7 +60,7 @@ flex-wrap: wrap;
 }
 
 .profile:nth-of-type(2) .profile__header{
-    background: url("/BemLive/img/pexels-pixabay-161154.webp");
+    background: url("img/pexels-pixabay-161154.webp");
     border-top-left-radius: 5rem;
     border-top-right-radius: 5rem;
     background-size: 100% 100%;
@@ -68,7 +68,7 @@ flex-wrap: wrap;
 }
 
 .profile:nth-of-type(3) .profile__header{
-    background: url("/BemLive/img/pexels-emre-can-acer-2110951.webp"); 
+    background: url("img/pexels-emre-can-acer-2110951.webp"); 
     border-top-left-radius: 5rem;
     border-top-right-radius: 5rem;
     background-size: 100% 100%;
